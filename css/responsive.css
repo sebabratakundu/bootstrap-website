@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+@media(max-width:768px){
+    #search-bar{
+        width:90%;
+        right:5%;
+        left:5%;
+    }
+
+    #slider h1{
+        font-size:30px;
+    }
+
+    #slider p{
+        font-size:15px;
+    }
+
+    .desktop-pic{
+        width:100%;
+    }
+
+    #what-people-box{
+        background-position:bottom;
+        background-size:100%;
+    }
+
+    #what-people-txt{
+        color:white;
+        text-align:center;
+    }
+
+    #product-box .card{
+        width:80%;
+    }
+
+    #about-pic{
+        width:100%;
+    }
+}
